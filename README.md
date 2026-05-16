@@ -67,17 +67,6 @@ CDI = w₁·P(flood) + w₂·P(road_cutoff) + w₃·P(cold_chain) + w₄·P(disp
 
 ---
 
-## Notebooks
-
-| Notebook | Description |
-|---|---|
-| `01_gee_data_pipeline.ipynb` | Google Earth Engine satellite data ingestion |
-| `02_flood_model_xgboost.ipynb` | XGBoost flood probability model training and evaluation |
-| `03_cdi_assembly.ipynb` | CDI score assembly across all 93 facilities |
-| `04_facility_risk_ranking.ipynb` | Final facility risk ranking output |
-
----
-
 ## Getting Started
 
 ### Requirements
