@@ -171,14 +171,6 @@ Run the notebooks in order. Each notebook saves its outputs to `/kaggle/working`
 
 ---
 
-## Roadmap
-
-- [ ] Replace proxy disruption label with UNOSAT verified flood extent ground truth from HDX
-- [ ] Extend CHIRPS data to full timeseries from 2019 to cover the extreme 2019 to 2021 flood seasons
-- [ ] Add SRTM slope and river distance as static GEE exports for the P(cutoff) component
-- [ ] Connect pipeline outputs to FastAPI backend serving the Salama Health mobile application
-- [ ] Re-run Phase 3 with real child registry data from the mobile application field pilot
-
 ---
 
 ## About
